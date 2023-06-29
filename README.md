@@ -10,16 +10,16 @@ that better align with the needs and aspirations of this new generation of worke
 
 # Methodology
 
-•	Understood the nature and the scope of the analysis from the project owner.
-•	Performed market research by various means like personal interviewing, articles, or white papers.
-•	Prepared an analysis requirement documentation for all the involved stakeholders with tight deadlines
-•	Understood the current Data Sources and Finalized the Data collection approach
-•	Collected Data by a Survey manually (Google Form)
-•	Performed Data Cleaning and Data Standardization/Normalization (Power Query)
-•	Created several hypothesis questions around the business and KPI and finalized the focus areas.
-•	Created several analysis reports and found insights to bring business impact using Excel, Power BI
-•	Designed and Published Dashboards for presenting the Insights (Excel & Power BI)
-•	Presented the findings and recommendations to the business stakeholders.
+1)	Understood the nature and the scope of the analysis from the project owner.
+2)	Performed market research by various means like personal interviewing, articles, or white papers.
+3)	Prepared an analysis requirement documentation for all the involved stakeholders with tight deadlines
+4)	Understood the current Data Sources and Finalized the Data collection approach
+5)	Collected Data by a Survey manually (Google Form)
+6)	Performed Data Cleaning and Data Standardization/Normalization (Power Query)
+7)	Created several hypothesis questions around the business and KPI and finalized the focus areas.
+8)	Created several analysis reports and found insights to bring business impact using Excel, Power BI
+9)	Designed and Published Dashboards for presenting the Insights (Excel & Power BI)
+10)Presented the findings and recommendations to the business stakeholders.
 
 
 # Results and Findings
