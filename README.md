@@ -19,7 +19,7 @@ that better align with the needs and aspirations of this new generation of worke
 7)	Created several hypothesis questions around the business and KPI and finalized the focus areas.
 8)	Created several analysis reports and found insights to bring business impact using Excel, Power BI
 9)	Designed and Published Dashboards for presenting the Insights (Excel & Power BI)
-10)Presented the findings and recommendations to the business stakeholders.
+10)	Presented the findings and recommendations to the business stakeholders.
 
 
 # Results and Findings
