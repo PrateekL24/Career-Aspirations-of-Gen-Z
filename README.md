@@ -41,4 +41,6 @@ Longitudinal Study: Conducting a longitudinal study to track the career aspirati
 Comparative Analysis: Comparing the career aspirations of Gen Z with other generational cohorts, such as Millennials or Baby Boomers, could reveal interesting patterns and differences.
 
 
+# Screenshot of Dashboard 
 
+<img width="419" alt="SS_Dashboard" src="https://github.com/PrateekL24/Career-Aspirations-of-Gen-Z/assets/93835658/9dfa52c3-a260-47ab-9c99-c04d83e16aac">
